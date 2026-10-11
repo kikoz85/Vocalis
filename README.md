@@ -9,7 +9,7 @@ Regia sul computer, testi a schermo intero su monitor o TV, prenotazioni dei can
 
 🇮🇹 Italiano · [🇬🇧 English](README.en.md)
 
-[**⬇️ Scarica l'ultima versione**](../../releases/latest) · [💜 Sostieni il progetto](https://github.com/sponsors/kikoz85)
+[**⬇️ Scarica l'ultima versione**](../../releases/latest) · [🌐 Sito dell'app](https://www.enricofanucchi.com/it/app/vocalis?utm_source=github&utm_campaign=readme) · [💜 Sostieni il progetto](https://github.com/sponsors/kikoz85)
 
 <img src="assets/screenshots/player.png" width="560" alt="Il Player di Vocalis">
 
