@@ -9,7 +9,7 @@ Run the show from your computer, show full-screen lyrics on a monitor or TV, and
 
 [🇮🇹 Italiano](README.md) · 🇬🇧 English
 
-[**⬇️ Download the latest version**](../../releases/latest) · [💜 Support the project](https://github.com/sponsors/kikoz85)
+[**⬇️ Download the latest version**](../../releases/latest) · [🌐 App website](https://www.enricofanucchi.com/en/app/vocalis?utm_source=github&utm_campaign=readme) · [💜 Support the project](https://github.com/sponsors/kikoz85)
 
 <img src="assets/screenshots/player.png" width="560" alt="The Vocalis Player">
 
