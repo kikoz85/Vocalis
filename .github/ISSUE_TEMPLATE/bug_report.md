@@ -16,7 +16,7 @@ labels: bug
 
 **Sistema / System**
 - Sistema operativo e versione / OS and version: (es. macOS 15 Apple Silicon, Windows 11, Ubuntu 24.04)
-- Versione di Vocalis / Vocalis version: (es. 1.1.1)
+- Versione di Vocalis / Vocalis version: (es. 1.1.2)
 - Uscita audio / Audio output: (synth interno con SoundFont / MIDI di sistema / strumento esterno)
 
 **File di esempio / Sample file**
