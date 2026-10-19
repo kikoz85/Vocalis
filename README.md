@@ -64,6 +64,7 @@ Vocalis include già un SoundFont General MIDI completo: suona subito, senza con
 - **Download manager dei SoundFont**: catalogo di 8 banchi adatti al karaoke (FluidR3, MuseScore General, Shan SGM e altri), con verifica di integrità, pausa e ripresa.
 - **Chiave** (trasposizione in semitoni), **tempo** e **volume**, con preset salvati per brano.
 - **Uscita MIDI** verso il synth di sistema o un modulo/strumento esterno, **MIDI IN** da tastiera e **Live mode** per suonare sopra la base.
+- **Guida melodica per processori vocali** (MicTune, auto-tune, harmonizer): Vocalis riconosce da solo il canale della melodia e ne invia le note, trasposte come la base, su una porta MIDI dedicata, così la correzione della voce segue la nota giusta del brano. Invia anche i cori, che il processore usa per le armonie, e con MicTune comunica tonalità e BPM. Melodia e cori possono restare muti nell'audio.
 - **Mixer a 16 canali** con mute, solo, volume e cambio strumento al volo.
 - **VU meter e analizzatore di spettro stile Winamp**.
 - Coda con **autoplay, shuffle, scan** e **repeat** (off / tutti / brano), più il **mini player**.
