@@ -47,7 +47,7 @@ Gli installer sono nella pagina [**Releases**](../../releases/latest).
 | **macOS** 10.15+ — Apple Silicon (M1, M2, M3, M4…) | `Vocalis_x.y.z_aarch64.dmg` | Apri il DMG e trascina Vocalis in Applicazioni. |
 | **macOS** 10.15+ — Intel | `Vocalis_x.y.z_x64.dmg` | Apri il DMG e trascina Vocalis in Applicazioni. |
 | **Windows** 10/11 (64 bit) | `Vocalis_x.y.z_x64-setup.exe` oppure `.msi` | Installer classico o MSI. |
-| **Linux** (x86_64) | `.deb` (Debian/Ubuntu), `.rpm` (Fedora/openSUSE) oppure `.AppImage` | Per l'AppImage: rendilo eseguibile e avvialo. |
+| **Linux** (x86_64 e ARM64) | `.deb` (Debian/Ubuntu), `.rpm` (Fedora/openSUSE) oppure `.AppImage`: `amd64`/`x86_64` per PC Intel/AMD, `arm64`/`aarch64` per ARM (es. Raspberry Pi 64 bit) | Per l'AppImage: rendilo eseguibile e avvialo. |
 
 > **Primo avvio.** Gli installer non sono ancora firmati con un certificato Apple/Microsoft, quindi il sistema chiede una conferma la prima volta.
 > - **macOS**: se compare «impossibile verificare lo sviluppatore», vai in *Impostazioni di Sistema → Privacy e sicurezza* e premi **Apri comunque**.
