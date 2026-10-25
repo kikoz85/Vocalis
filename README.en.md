@@ -15,7 +15,7 @@ Run the show from your computer, show full-screen lyrics on a monitor or TV, and
 
 </div>
 
-> The app interface is in Italian; the screenshots below show it as-is.
+> The app interface is in **English and Italian**: it follows your system language, or pick it in *Setup → General → Language*. The screenshots below show the Italian interface.
 
 ---
 
@@ -92,6 +92,7 @@ Vocalis already includes a complete General MIDI SoundFont: it plays out of the 
 ### Interface
 - **Multi-window**: Player, Karaoke, Playlist, Library, Piano, Output, Control, Regia (control room) and Setup, with the layout saved and multi-monitor support.
 - **6 built-in themes**, plus **custom themes** from files.
+- **English and Italian**, chosen from the system language or in *Setup → General → Language*; the song request page and the TV lyrics page follow the language of the phone or browser.
 
 ## Screenshots
 
