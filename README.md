@@ -90,6 +90,7 @@ Vocalis include già un SoundFont General MIDI completo: suona subito, senza con
 ### Interfaccia
 - **Multi-finestra**: Player, Karaoke, Playlist, Libreria, Piano, Output, Control, Regia e Setup, con disposizione salvata e supporto multi-monitor.
 - **6 temi** inclusi, più **temi personalizzati** da file.
+- **Italiano e inglese**, scelti in base alla lingua del sistema o in *Setup → Generale → Lingua*; la pagina delle prenotazioni e quella dei testi per la TV usano la lingua del telefono o del browser.
 
 ## Screenshot
 
