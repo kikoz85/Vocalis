@@ -9,7 +9,7 @@ Run the show from your computer, show full-screen lyrics on a monitor or TV, and
 
 [🇮🇹 Italiano](README.md) · 🇬🇧 English
 
-[**⬇️ Download the latest version**](../../releases/latest) · [🌐 App website](https://www.enricofanucchi.com/en/app/vocalis?utm_source=github&utm_campaign=readme) · [💜 Support the project](https://github.com/sponsors/kikoz85)
+[**⬇️ Download the latest version**](../../releases/latest) · [🍎 Mac App Store](https://apps.apple.com/app/id6829082041) · [🪟 Microsoft Store](https://apps.microsoft.com/detail/9NMDNJ6SNF20) · [🌐 App website](https://www.enricofanucchi.com/en/app/vocalis?utm_source=github&utm_campaign=readme) · [💜 Support the project](https://github.com/sponsors/kikoz85)
 
 <img src="assets/screenshots/player.png" width="560" alt="The Vocalis Player">
 
@@ -42,7 +42,16 @@ The priorities are **speed and reliability**: fast startup, glitch-free audio an
 
 ## Download and installation
 
-Installers are on the [**Releases**](../../releases/latest) page.
+**From the stores** (automatic updates from the store):
+
+<a href="https://apps.apple.com/app/id6829082041"><img src="https://img.shields.io/badge/Mac_App_Store-Vocalis_Karaoke-0D96F6?logo=apple&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke on the Mac App Store"></a> <a href="https://apps.microsoft.com/detail/9NMDNJ6SNF20"><img src="https://img.shields.io/badge/Microsoft_Store-Vocalis_Karaoke-0078D4?logo=microsoftstore&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke on the Microsoft Store"></a>
+
+- **Mac App Store**: macOS 10.15+, Apple Silicon and Intel.
+- **Microsoft Store**: Windows 10/11, x64 and ARM64, signed by Microsoft.
+
+> The store versions are under review by Apple and Microsoft: the links will work as soon as they are approved.
+
+**From GitHub**: installers are on the [**Releases**](../../releases/latest) page and update from within the app.
 
 | System | File | Notes |
 |---|---|---|
@@ -52,9 +61,9 @@ Installers are on the [**Releases**](../../releases/latest) page.
 | **Windows 11 on ARM** (ARM64) | `Vocalis_x.y.z_arm64-setup.exe` or `.msi` | Snapdragon X, Surface Pro, Windows in Parallels on Macs. |
 | **Linux** (x86_64 and ARM64) | `.deb` (Debian/Ubuntu), `.rpm` (Fedora/openSUSE) or `.AppImage`: `amd64`/`x86_64` for Intel/AMD PCs, `arm64`/`aarch64` for ARM (e.g. 64-bit Raspberry Pi) | For the AppImage: make it executable and run it. |
 
-> **First launch.** The installers are not yet signed with an Apple/Microsoft certificate, so the system asks for confirmation the first time.
-> - **macOS**: if you see «cannot verify the developer», go to *System Settings → Privacy & Security* and click **Open Anyway**.
-> - **Windows**: if SmartScreen appears, click *More info* → **Run anyway**.
+> **First launch.**
+> - **macOS**: the DMGs are **signed with a Developer ID certificate and notarized by Apple** (since version 1.4.2): Vocalis opens with a double-click, with no warnings.
+> - **Windows**: the GitHub installers are not signed yet, so SmartScreen may appear the first time: click *More info* → **Run anyway**. The [Microsoft Store](https://apps.microsoft.com/detail/9NMDNJ6SNF20) version is signed and shows no warnings.
 
 Vocalis already includes a complete General MIDI SoundFont: it plays out of the box, with no setup.
 
