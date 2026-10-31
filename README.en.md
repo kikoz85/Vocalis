@@ -46,9 +46,9 @@ The priorities are **speed and reliability**: fast startup, glitch-free audio an
 
 <a href="https://apps.apple.com/app/id6829082041"><img src="https://img.shields.io/badge/Mac_App_Store-Vocalis_Karaoke-0D96F6?logo=apple&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke on the Mac App Store"></a> <a href="https://apps.microsoft.com/detail/9NMDNJ6SNF20"><img src="https://img.shields.io/badge/Microsoft_Store-Vocalis_Karaoke-0078D4?logo=microsoftstore&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke on the Microsoft Store"></a> <a href="https://play.google.com/store/apps/details?id=com.vocalis.karaoke"><img src="https://img.shields.io/badge/Google_Play-Vocalis_Karaoke-01875F?logo=googleplay&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke on Google Play"></a>
 
-- **Mac App Store**: macOS 10.15+, Apple Silicon and Intel.
-- **Microsoft Store**: Windows 10/11, x64 and ARM64, signed by Microsoft.
-- **Google Play**: Android 8.0+, phones and tablets, including desktop mode (Samsung DeX).
+- **Mac App Store** *(under review by Apple)*: macOS 10.15+, Apple Silicon and Intel.
+- **Microsoft Store** *(under review by Microsoft)*: Windows 10/11, x64 and ARM64, signed by Microsoft.
+- **Google Play** *(closed testing)*: Android 8.0+, phones and tablets, including desktop mode (Samsung DeX).
 
 > The Mac App Store and Microsoft Store versions are under review by Apple and Microsoft; the Android version is in **closed testing** on Google Play until mid-November 2026. The links will work as soon as the apps are published.
 
