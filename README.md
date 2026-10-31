@@ -4,12 +4,12 @@
 
 # Vocalis
 
-**Player karaoke MIDI/KAR per macOS, Windows e Linux, ispirato a vanBasco, pensato per le serate dal vivo.**
+**Player karaoke MIDI/KAR per macOS, Windows, Linux e Android, ispirato a vanBasco, pensato per le serate dal vivo.**
 Regia sul computer, testi a schermo intero su monitor o TV, prenotazioni dei cantanti dal telefono.
 
 🇮🇹 Italiano · [🇬🇧 English](README.en.md)
 
-[**⬇️ Scarica l'ultima versione**](../../releases/latest) · [🍎 Mac App Store](https://apps.apple.com/app/id6829082041) · [🪟 Microsoft Store](https://apps.microsoft.com/detail/9NMDNJ6SNF20) · [🌐 Sito dell'app](https://www.enricofanucchi.com/it/app/vocalis?utm_source=github&utm_campaign=readme) · [💜 Sostieni il progetto](https://github.com/sponsors/kikoz85)
+[**⬇️ Scarica l'ultima versione**](../../releases/latest) · [🍎 Mac App Store](https://apps.apple.com/app/id6829082041) · [🪟 Microsoft Store](https://apps.microsoft.com/detail/9NMDNJ6SNF20) · [🤖 Google Play](https://play.google.com/store/apps/details?id=com.vocalis.karaoke) · [🌐 Sito dell'app](https://www.enricofanucchi.com/it/app/vocalis?utm_source=github&utm_campaign=readme) · [💜 Sostieni il progetto](https://github.com/sponsors/kikoz85)
 
 <img src="assets/screenshots/player.png" width="560" alt="Il Player di Vocalis">
 
@@ -42,12 +42,13 @@ Le priorità sono **velocità e affidabilità**: avvio rapido, audio senza glitc
 
 **Dagli store** (aggiornamenti automatici dallo store):
 
-<a href="https://apps.apple.com/app/id6829082041"><img src="https://img.shields.io/badge/Mac_App_Store-Vocalis_Karaoke-0D96F6?logo=apple&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke sul Mac App Store"></a> <a href="https://apps.microsoft.com/detail/9NMDNJ6SNF20"><img src="https://img.shields.io/badge/Microsoft_Store-Vocalis_Karaoke-0078D4?logo=microsoftstore&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke sul Microsoft Store"></a>
+<a href="https://apps.apple.com/app/id6829082041"><img src="https://img.shields.io/badge/Mac_App_Store-Vocalis_Karaoke-0D96F6?logo=apple&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke sul Mac App Store"></a> <a href="https://apps.microsoft.com/detail/9NMDNJ6SNF20"><img src="https://img.shields.io/badge/Microsoft_Store-Vocalis_Karaoke-0078D4?logo=microsoftstore&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke sul Microsoft Store"></a> <a href="https://play.google.com/store/apps/details?id=com.vocalis.karaoke"><img src="https://img.shields.io/badge/Google_Play-Vocalis_Karaoke-01875F?logo=googleplay&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke su Google Play"></a>
 
 - **Mac App Store**: macOS 10.15+, Apple Silicon e Intel.
 - **Microsoft Store**: Windows 10/11, x64 e ARM64, firmato da Microsoft.
+- **Google Play**: Android 8.0+, telefoni e tablet, anche in modalità desktop (Samsung DeX).
 
-> Le versioni per gli store sono in revisione da Apple e Microsoft: i link funzioneranno appena saranno approvate.
+> Le versioni per Mac App Store e Microsoft Store sono in revisione da Apple e Microsoft; quella Android è in **test chiuso** su Google Play fino a metà novembre 2026. I link funzioneranno appena le app saranno pubblicate.
 
 **Da GitHub**: gli installer sono nella pagina [**Releases**](../../releases/latest) e si aggiornano dall'app.
 
