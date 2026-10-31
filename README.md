@@ -9,7 +9,7 @@ Regia sul computer, testi a schermo intero su monitor o TV, prenotazioni dei can
 
 🇮🇹 Italiano · [🇬🇧 English](README.en.md)
 
-[**⬇️ Scarica l'ultima versione**](../../releases/latest) · [🍎 Mac App Store](https://apps.apple.com/app/id6829082041) · [🪟 Microsoft Store](https://apps.microsoft.com/detail/9NMDNJ6SNF20) · [🤖 Google Play](https://play.google.com/store/apps/details?id=com.vocalis.karaoke) · [🌐 Sito dell'app](https://www.enricofanucchi.com/it/app/vocalis?utm_source=github&utm_campaign=readme) · [💜 Sostieni il progetto](https://github.com/sponsors/kikoz85)
+[**⬇️ Scarica l'ultima versione**](../../releases/latest) · [🌐 Sito dell'app](https://www.enricofanucchi.com/it/app/vocalis?utm_source=github&utm_campaign=readme) · [💜 Sostieni il progetto](https://github.com/sponsors/kikoz85)
 
 <img src="assets/screenshots/player.png" width="560" alt="Il Player di Vocalis">
 
@@ -40,15 +40,13 @@ Le priorità sono **velocità e affidabilità**: avvio rapido, audio senza glitc
 
 ## Download e installazione
 
-**Dagli store** (aggiornamenti automatici dallo store):
-
-<a href="https://apps.apple.com/app/id6829082041"><img src="https://img.shields.io/badge/Mac_App_Store-Vocalis_Karaoke-0D96F6?logo=apple&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke sul Mac App Store"></a> <a href="https://apps.microsoft.com/detail/9NMDNJ6SNF20"><img src="https://img.shields.io/badge/Microsoft_Store-Vocalis_Karaoke-0078D4?logo=microsoftstore&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke sul Microsoft Store"></a> <a href="https://play.google.com/store/apps/details?id=com.vocalis.karaoke"><img src="https://img.shields.io/badge/Google_Play-Vocalis_Karaoke-01875F?logo=googleplay&logoColor=white&style=for-the-badge" alt="Vocalis Karaoke su Google Play"></a>
+**In arrivo sugli store** (con aggiornamenti automatici dallo store):
 
 - **Mac App Store** *(in revisione da Apple)*: macOS 10.15+, Apple Silicon e Intel.
 - **Microsoft Store** *(in revisione da Microsoft)*: Windows 10/11, x64 e ARM64, firmato da Microsoft.
 - **Google Play** *(in test chiuso)*: Android 8.0+, telefoni e tablet, anche in modalità desktop (Samsung DeX).
 
-> Le versioni per Mac App Store e Microsoft Store sono in revisione da Apple e Microsoft; quella Android è in **test chiuso** su Google Play fino a metà novembre 2026. I link funzioneranno appena le app saranno pubblicate.
+I link verranno aggiunti qui appena le app saranno pubblicate.
 
 **Da GitHub**: gli installer sono nella pagina [**Releases**](../../releases/latest) e si aggiornano dall'app.
 
@@ -62,7 +60,7 @@ Le priorità sono **velocità e affidabilità**: avvio rapido, audio senza glitc
 
 > **Primo avvio.**
 > - **macOS**: i DMG sono **firmati con certificato Developer ID e notarizzati da Apple** (dalla versione 1.4.2): Vocalis si apre con un doppio clic, senza avvisi.
-> - **Windows**: gli installer di GitHub non sono ancora firmati, quindi la prima volta può comparire SmartScreen: premi *Ulteriori informazioni* → **Esegui comunque**. La versione del [Microsoft Store](https://apps.microsoft.com/detail/9NMDNJ6SNF20) è firmata e non mostra avvisi.
+> - **Windows**: gli installer di GitHub non sono ancora firmati, quindi la prima volta può comparire SmartScreen: premi *Ulteriori informazioni* → **Esegui comunque**. La versione del Microsoft Store, in arrivo, sarà firmata da Microsoft.
 
 Vocalis include già un SoundFont General MIDI completo: suona subito, senza configurazione.
 
