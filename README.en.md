@@ -42,13 +42,13 @@ The priorities are **speed and reliability**: fast startup, glitch-free audio an
 
 ## Download and installation
 
-**Coming soon to the stores** (with automatic updates from the store):
+**From the stores** (with automatic updates from the store):
 
 - **Mac App Store** *(under review by Apple)*: macOS 10.15+, Apple Silicon and Intel.
-- **Microsoft Store** *(under review by Microsoft)*: Windows 10/11, x64 and ARM64, signed by Microsoft.
+- [**Microsoft Store**](https://apps.microsoft.com/detail/9NMDNJ6SNF20): Windows 10/11, x64 and ARM64, signed by Microsoft.
 - **Google Play** *(closed testing)*: Android 8.0+, phones and tablets, including desktop mode (Samsung DeX).
 
-Links will be added here as soon as the apps are published.
+The other links will be added here as soon as the apps are published.
 
 **From GitHub**: installers are on the [**Releases**](../../releases/latest) page and update from within the app.
 
@@ -62,7 +62,7 @@ Links will be added here as soon as the apps are published.
 
 > **First launch.**
 > - **macOS**: the DMGs are **signed with a Developer ID certificate and notarized by Apple** (since version 1.4.2): Vocalis opens with a double-click, with no warnings.
-> - **Windows**: the GitHub installers are not signed yet, so SmartScreen may appear the first time: click *More info* → **Run anyway**. The upcoming Microsoft Store version will be signed by Microsoft.
+> - **Windows**: the GitHub installers are not signed yet, so SmartScreen may appear the first time: click *More info* → **Run anyway**. Alternatively, install the [Microsoft Store](https://apps.microsoft.com/detail/9NMDNJ6SNF20) version, signed by Microsoft.
 
 Vocalis already includes a complete General MIDI SoundFont: it plays out of the box, with no setup.
 
