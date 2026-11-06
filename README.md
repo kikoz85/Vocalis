@@ -44,6 +44,7 @@ Le priorità sono **velocità e affidabilità**: avvio rapido, audio senza glitc
 
 - **Mac App Store** *(in revisione da Apple)*: macOS 10.15+, Apple Silicon e Intel.
 - [**Microsoft Store**](https://apps.microsoft.com/detail/9NMDNJ6SNF20): Windows 10/11, x64 e ARM64, firmato da Microsoft.
+- [**Snap Store**](https://snapcraft.io/vocalis-karaoke): Linux x64 e ARM64 (Ubuntu e le altre distribuzioni con snap): `sudo snap install vocalis-karaoke`. Per le porte MIDI: `sudo snap connect vocalis-karaoke:alsa`.
 - **Google Play** *(in test chiuso)*: Android 8.0+, telefoni e tablet, anche in modalità desktop (Samsung DeX).
 
 Gli altri link verranno aggiunti qui appena le app saranno pubblicate.
